@@ -338,7 +338,7 @@ st.markdown("---")
 # ==========================================================================
 # DATA CLEANING & PREPROCESSING
 # ==========================================================================
-st.markdown("# 🧼 Data Cleaning & Preprocessing")
+st.markdown("#  Data Cleaning & Preprocessing")
 
 if df is not None:
     st.markdown("""
